@@ -1,0 +1,5 @@
+pandas
+numpy
+setuptools
+google_cloud_storage
+pyyaml

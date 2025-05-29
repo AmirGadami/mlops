@@ -1,0 +1,33 @@
+2025-05-29 17:43:42,628 - INFO - Successfully read the Yaml file
+2025-05-29 17:43:42,628 - INFO - data ingestion started
+2025-05-29 17:43:42,628 - INFO - Starting Data Engestion Process....
+2025-05-29 17:43:51,580 - INFO - Data Ingestion is Done
+2025-05-29 17:45:05,204 - INFO - Successfully read the Yaml file
+2025-05-29 17:45:05,204 - INFO - data ingestion started
+2025-05-29 17:45:05,204 - INFO - Starting Data Engestion Process....
+2025-05-29 17:45:14,156 - INFO - Data Ingestion is Done
+2025-05-29 17:46:07,499 - INFO - Successfully read the Yaml file
+2025-05-29 17:46:07,499 - INFO - data ingestion started
+2025-05-29 17:46:07,500 - INFO - Starting Data Engestion Process....
+2025-05-29 17:46:08,306 - INFO - Data Ingestion is Done
+2025-05-29 17:47:09,533 - INFO - Successfully read the Yaml file
+2025-05-29 17:47:09,533 - INFO - data ingestion started
+2025-05-29 17:47:09,533 - INFO - Starting Data Engestion Process....
+2025-05-29 17:47:10,044 - ERROR - CustomException:  Error: Error While Downloading data | File: /Users/amir/Desktop/GitHub/MLOPs/venv/lib/python3.13/site-packages/google/cloud/storage/blob.py | Line: 4826
+2025-05-29 17:47:10,044 - INFO - Data Ingestion is Done
+2025-05-29 17:48:05,212 - INFO - Successfully read the Yaml file
+2025-05-29 17:48:05,213 - INFO - data ingestion started
+2025-05-29 17:48:05,213 - INFO - Starting Data Engestion Process....
+2025-05-29 17:48:05,668 - ERROR - CustomException:  Error: Error While Downloading data | File: /Users/amir/Desktop/GitHub/MLOPs/venv/lib/python3.13/site-packages/google/cloud/storage/blob.py | Line: 4826
+2025-05-29 17:48:05,668 - INFO - Data Ingestion is Done
+2025-05-29 17:49:08,021 - INFO - Successfully read the Yaml file
+2025-05-29 17:49:08,021 - INFO - data ingestion started
+2025-05-29 17:49:08,021 - INFO - Starting Data Engestion Process....
+2025-05-29 17:49:08,459 - ERROR - CustomException:  Error: Error While Downloading data | File: /Users/amir/Desktop/GitHub/MLOPs/venv/lib/python3.13/site-packages/google/cloud/storage/blob.py | Line: 4826
+2025-05-29 17:49:08,459 - INFO - Data Ingestion is Done
+2025-05-29 17:49:45,309 - INFO - Successfully read the Yaml file
+2025-05-29 17:49:45,309 - INFO - data ingestion started
+2025-05-29 17:49:45,310 - INFO - Starting Data Engestion Process....
+2025-05-29 17:49:49,034 - INFO - downloading smaller data
+2025-05-29 17:49:49,148 - ERROR - CustomException:  Error: Error While Downloading data | File: /Users/amir/Desktop/GitHub/MLOPs/venv/lib/python3.13/site-packages/google/cloud/storage/blob.py | Line: 4826
+2025-05-29 17:49:49,148 - INFO - Data Ingestion is Done
