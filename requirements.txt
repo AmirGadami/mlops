@@ -3,4 +3,6 @@ numpy
 setuptools
 google_cloud_storage
 pyyaml
-
+tensorflow
+joblib
+scikit-learn
