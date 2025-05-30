@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: MLOps_project_2
-Version: 1.0.0
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: setuptools
-Requires-Dist: google_cloud_storage
-Requires-Dist: pyyaml
-Dynamic: requires-dist
